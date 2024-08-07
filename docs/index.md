@@ -7,8 +7,8 @@ Welcome to OopsLog! This repository is dedicated to tracking our team’s develo
 #### OppsHistory
 
 
-| Person        | Mistake           | Description  | Penalty | Status |
-| ------------- | ----------------- | ------------ | -------:| ------ |
-| Rony      | Code Format | [gitlab_link](https://gitlab.com/AtMetis-ImpelITSolutions/das/-/merge_requests/338/diffs?commit_id=6e8c861be030e8cc296e0edcfb069a56f0b1128a) | ৳100 | DUE |
-
+| Person        | Mistake           | Description  | Date | Penalty | Status |
+| ------------- | ----------------- | ------------ | -----| -------:| ------ |
+| Rony      | Code Format | [gitlab_link](https://gitlab.com/AtMetis-ImpelITSolutions/das/-/merge_requests/338/diffs?commit_id=6e8c861be030e8cc296e0edcfb069a56f0b1128a) | 7-aug | ৳100 | DUE |
+| Habib      | Basic test missed  | [gitlab_link](https://gitlab.com/AtMetis-ImpelITSolutions/rms/-/merge_requests/114/diffs?commit_id=601a02efd8c465a0584f5bfcace36c7edef782fa) | 29-july | ৳100 | DUE |
 
