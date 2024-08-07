@@ -2,6 +2,9 @@
 
 Welcome to OopsLog! This repository is dedicated to tracking our team’s development mistakes and the fun "punishments" that come with them. Our goal is to learn from our errors, improve our coding practices, and maintain a positive and collaborative team environment. Let’s turn our “oops” moments into opportunities for growth and laughter!
 
+---
+
+#### OppsHistory
 
 
 | Person        | Mistake           | Description  | Penalty | Status |
