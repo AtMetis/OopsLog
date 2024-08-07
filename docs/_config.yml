@@ -1,8 +1,6 @@
+title: OopsLog:: A Light-Hearted Tracker for Development Blunders
+description: Tracking our development blunders with fun and laughter to improve team coding practices.
+show_downloads: false
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [OopsLog:: A Light-Hearted Tracker for Development Blunders]
-description: [Welcome to OopsLog! This repository is dedicated to tracking our team’s development mistakes and the fun "punishments" that come with them. Our goal is to learn from our errors, improve our coding practices, and maintain a positive and collaborative team environment. Let’s turn our “oops” moments into opportunities for growth and laughter!]
-
-show_downloads: [false]
